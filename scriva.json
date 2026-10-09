@@ -1,21 +1,21 @@
 {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/srjn45/scriva/releases/download/v1.3.0/scriva_1.3.0_windows_amd64.zip",
+            "url": "https://github.com/srjn45/scriva/releases/download/v1.4.0/scriva_1.4.0_windows_amd64.zip",
             "bin": [
                 "scriva-cli.exe",
                 "scriva.exe"
             ],
-            "hash": "53c981952428a1c0fa2243510fd62c02c195f5be71ce253696f6164a0cd5e6ed"
+            "hash": "501f1183690d97268d2e39faaed91474134ba5ac55af579d68b09eb976ae5b4e"
         },
         "arm64": {
-            "url": "https://github.com/srjn45/scriva/releases/download/v1.3.0/scriva_1.3.0_windows_arm64.zip",
+            "url": "https://github.com/srjn45/scriva/releases/download/v1.4.0/scriva_1.4.0_windows_arm64.zip",
             "bin": [
                 "scriva-cli.exe",
                 "scriva.exe"
             ],
-            "hash": "061aa0b6b2d23571aaf992088f1dfb6ea95005c056c7ebe2dc35bb26ff422952"
+            "hash": "ab669913cac9af7ba2e3817826e480683955ab39b54770be270c85500c8e7c98"
         }
     },
     "homepage": "https://github.com/srjn45/scriva",
